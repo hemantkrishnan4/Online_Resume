@@ -15,6 +15,10 @@ This project was created as part of my journey in learning the basics of HTML. I
 2.Customize the HTML code to match your personal information and preferences.
 3.Open the index.html file in your web browser to preview your online resume.
 
+## Final Result
+
+![Web capture](https://github.com/hemantkrishnan4/Online_Resume/assets/96692095/bd183516-4438-462c-bc2a-2000abb2557c)
+
 ## Contributing
 
 If you have any ideas, suggestions, or you encounter issues, please open an issue. Contributions are always welcome!
